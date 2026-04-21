@@ -1,6 +1,6 @@
 <!-- ========================= BANNER ========================= -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/junaidmir1212/junaidmir1212/main/banner.png" alt="Muhammad Junaid Mir Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/junaidmir1212/junaidmir1212/main/banner.png" />
 </p>
 
 <!-- ========================= NAME / INTRO ========================= -->
