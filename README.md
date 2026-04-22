@@ -5,7 +5,7 @@
 
 <!-- ========================= NAME / INTRO ========================= -->
 <h1 align="center">Muhammad Junaid Mir</h1>
-<h3 align="center">Software Engineer | AI & NLP Enthusiast | Final-Year Computer Science Student</h3>
+<h3 align="center">Software Engineer | AI · NLP · Backend Systems | Final-Year Computer Science Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=900&lines=Building+intelligent+systems+to+solve+real-world+problems;Focused+on+AI%2C+NLP%2C+Software+Engineering+and+Blockchain;Actively+seeking+Graduate+Software+Engineer+%2F+AI+roles" alt="Typing SVG" />
@@ -16,20 +16,18 @@
 👉 **Explore my full work here:**  
 🔗 https://muhammadjuniadmir.vercel.app/
 
-[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammadjuniadmir.vercel.app/)
-
 <p align="center">
   <a href="https://muhammadjuniadmir.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Visit-Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-junaid-mir-081479266/">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Junaid%20Mir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:junaidmir1212@gmail.com">
-    <img src="https://img.shields.io/badge/Email-junaidmir1212%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/junaidmir1212">
-    <img src="https://img.shields.io/badge/GitHub-junaidmir1212-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
