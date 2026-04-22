@@ -11,9 +11,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=900&lines=Building+intelligent+systems+to+solve+real-world+problems;Focused+on+AI%2C+NLP%2C+Software+Engineering+and+Blockchain;Actively+seeking+Graduate+Software+Engineer+%2F+AI+roles" alt="Typing SVG" />
 </p>
 
-## 🌐 Portfolio
+## 🌐 Live Portfolio
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammadjuniadmir.vercel.app/)
+👉 **Explore my full work here:**  
+🔗 https://muhammadjuniadmir.vercel.app/
+
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammadjuniadmir.vercel.app/)
 
 <p align="center">
   <a href="https://muhammadjuniadmir.vercel.app/">
