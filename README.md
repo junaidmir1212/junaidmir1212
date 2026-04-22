@@ -11,7 +11,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=900&lines=Building+intelligent+systems+to+solve+real-world+problems;Focused+on+AI%2C+NLP%2C+Software+Engineering+and+Blockchain;Actively+seeking+Graduate+Software+Engineer+%2F+AI+roles" alt="Typing SVG" />
 </p>
 
+## 🌐 Portfolio
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammadjuniadmir.vercel.app/)
+
 <p align="center">
+  <a href="https://muhammadjuniadmir.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/muhammad-junaid-mir-081479266/">
     <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Junaid%20Mir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -21,7 +28,6 @@
   <a href="https://github.com/junaidmir1212">
     <img src="https://img.shields.io/badge/GitHub-junaidmir1212-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=junaidmir1212&style=for-the-badge&color=0e75b6" alt="Profile views"/>
 </p>
 
 ---
@@ -35,6 +41,7 @@ I am a final-year **BSc (Hons) Computer Science** student with strong interests 
 - 🧠 Built a fake news detection project using **machine learning and NLP**
 - 🔗 Developed a **blockchain-based event ticketing DApp**
 - 💼 Actively seeking **Graduate Software Engineer / AI / Backend roles in the UK**
+- - 🌐 Portfolio: https://muhammadjuniadmir.vercel.app/
 
 ---
 
