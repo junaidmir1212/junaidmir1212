@@ -223,4 +223,4 @@ I am currently targeting opportunities in:
 
 ## ✍️ Personal Philosophy
 
-> Strong engineers do not just build software — they solve meaningful problems with clarity, logic, and impact.
+Strong engineers do not just build software — they solve meaningful problems with clarity, logic, and impact.
