@@ -35,14 +35,15 @@
 
 ## ⚡ About Me
 
-I am a final-year **BSc (Hons) Computer Science** student with strong interests in **software engineering, artificial intelligence, natural language processing, and backend systems**. I enjoy building practical, real-world solutions that combine technical depth with usability.
+I am a **BSc (Hons) Computer Science Graduate (UK)** with strong interests in **software engineering, artificial intelligence, natural language processing, backend systems, and full-stack development**. I enjoy building practical, real-world solutions that combine technical depth with usability.
 
-- 🎓 Final-year Computer Science student
-- 🤖 Focused on **AI, NLP, software development, and intelligent systems**
+- 🎓 BSc (Hons) Computer Science Graduate
+- 🤖 Focused on **AI, NLP, software development, backend systems, and intelligent applications**
 - 🧠 Built a fake news detection project using **machine learning and NLP**
 - 🔗 Developed a **blockchain-based event ticketing DApp**
+- 💻 Built full-stack, database-driven, and portfolio-based software projects
 - 💼 Actively seeking **Graduate Software Engineer / AI / Backend roles in the UK**
-- - 🌐 Portfolio: https://muhammadjuniadmir.vercel.app/
+- 🌐 Portfolio: https://muhammadjuniadmir.vercel.app/
 
 ---
 
@@ -95,8 +96,8 @@ Developed a machine learning-based system to classify social media/news content 
 - Built a practical AI solution targeting misinformation detection
 - Achieved approximately **98% classification accuracy**
 
-**Why it matters**  
-This project demonstrates my ability to apply **AI and NLP** to a real-world social problem with measurable output.
+**Tech Stack**  
+Python, Scikit-learn, Pandas, NLP, TF-IDF, Machine Learning
 
 ---
 
@@ -108,15 +109,70 @@ This project demonstrates my ability to apply **AI and NLP** to a real-world soc
 Built a blockchain-based decentralised ticketing system designed to reduce ticket fraud, duplication, and lack of transparency in traditional ticketing platforms.
 
 **Key Highlights**
-- Used blockchain concepts and smart-contract-based logic
+- Used smart-contract-based logic for ticket issuance and validation
 - Designed a ticketing model where each ticket is uniquely verifiable
-- Integrated multiple system layers to support decentralised validation
-- Demonstrated a practical **Web3** use case for real-world event systems
+- Applied NFT-based validation concepts to improve authenticity
+- Demonstrated a practical **Web3** use case for event systems
 
-**Why it matters**  
-This project shows my interest in innovative technologies and my ability to work on systems beyond standard CRUD applications.
+**Tech Stack**  
+Solidity, Ethereum, Web3.js, JavaScript, Smart Contracts, NFT Validation
 
 ---
+
+### 🎓 Graduate Career Hub
+**Repository:**  
+[Graduate Career Hub](https://github.com/junaidmir1212/graduate-career-hub)
+
+**Live Project:**  
+https://graduate-career-hub.vercel.app/
+
+**Overview**  
+Built a full-stack graduate career platform to help students organise applications, track career progress, and manage employability-related information in one place.
+
+**Key Highlights**
+- Developed a modern web application using **Next.js**
+- Integrated backend/database functionality using **Prisma**
+- Designed dashboard-style pages for career and project management
+- Deployed the application using **Vercel**
+- Focused on practical employability support for graduates
+
+**Tech Stack**  
+Next.js, React, Prisma, Database, Vercel, JavaScript/TypeScript
+
+---
+
+### 🗄️ Database-Driven Application / SQL System
+**Overview**  
+Designed and implemented a relational database system focused on structured data management, efficient querying, and data integrity.
+
+**Key Highlights**
+- Designed relational tables for organised data storage
+- Developed SQL queries for retrieval, filtering, insertion, and updates
+- Applied normalisation principles to reduce redundancy
+- Improved data consistency through structured database design
+- Demonstrated backend/database fundamentals for real-world systems
+
+**Tech Stack**  
+SQL, Relational Databases, Database Design, Query Optimisation, Normalisation
+
+---
+
+### 🌐 Personal Portfolio Website
+**Live Website:**  
+https://muhammadjuniadmir.vercel.app/
+
+**Overview**  
+Designed and deployed a modern personal portfolio website to showcase my technical projects, skills, CV, and career focus.
+
+**Key Highlights**
+- Built a responsive portfolio using **Next.js and React**
+- Showcased AI, NLP, blockchain, and database projects
+- Added downloadable CV and professional contact links
+- Improved project presentation with case-study style sections
+- Deployed live using **Vercel**
+
+**Tech Stack**  
+Next.js, React, Tailwind CSS, Framer Motion, Vercel, GitHub
 
 ## 📌 What Sets Me Apart
 
