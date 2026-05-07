@@ -11,10 +11,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=900&lines=Building+intelligent+systems+to+solve+real-world+problems;Focused+on+AI%2C+NLP%2C+Software+Engineering+and+Blockchain;Actively+seeking+Graduate+Software+Engineer+%2F+AI+roles" alt="Typing SVG" />
 </p>
 
+---
+
 ## 🌐 Live Portfolio
 
-👉 **Explore my full work here:**  
+**Explore my full work here:**  
 🔗 https://muhammadjuniadmir.vercel.app/
+
+---
+
+## 👉 Socials
 
 <p align="center">
   <a href="https://muhammadjuniadmir.vercel.app/">
@@ -47,7 +53,7 @@ I am a **BSc (Hons) Computer Science Graduate (UK)** with strong interests in **
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
 ### 🚀 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -72,6 +78,7 @@ I am a **BSc (Hons) Computer Science Graduate (UK)** with strong interests in **
 ## 🚀 Featured Projects
 
 ### 🔍 Fake News Detection on Social Media Using NLP
+
 **Repository:**  
 [Fake-News-Detection-on-Social-Media-Using-Natural-Language-Processing-NLP-](https://github.com/junaidmir1212/Fake-News-Detection-on-Social-Media-Using-Natural-Language-Processing-NLP-)
 
@@ -85,11 +92,17 @@ Developed a machine learning-based system to classify social media/news content 
 - Achieved approximately **98% classification accuracy**
 
 **Tech Stack**  
-Python, Scikit-learn, Pandas, NLP, TF-IDF, Machine Learning
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TF--IDF-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0A192F?style=for-the-badge"/>
 
 ---
 
 ### 🎟️ Event Ticketing DApp
+
 **Repository:**  
 [-Event-Ticketing-D-App](https://github.com/junaidmir1212/-Event-Ticketing-D-App)
 
@@ -103,11 +116,17 @@ Built a blockchain-based decentralised ticketing system designed to reduce ticke
 - Demonstrated a practical **Web3** use case for event systems
 
 **Tech Stack**  
-Solidity, Ethereum, Web3.js, JavaScript, Smart Contracts, NFT Validation
+<img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Smart%20Contracts-323330?style=for-the-badge&logo=smart-contracts&logoColor=white"/>
+<img src="https://img.shields.io/badge/NFT%20Validation-0ea5e9?style=for-the-badge"/>
 
 ---
 
 ### 🎓 Graduate Career Hub
+
 **Repository:**  
 [Graduate Career Hub](https://github.com/junaidmir1212/graduate-career-hub)
 
@@ -125,11 +144,42 @@ Built a full-stack graduate career platform to help students organise applicatio
 - Focused on practical employability support for graduates
 
 **Tech Stack**  
-Next.js, React, Prisma, Database, Vercel, JavaScript/TypeScript
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Database-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+---
+
+### 💻 Chopstix OS
+
+**Repository:**  
+[Chopstix-OS](https://github.com/junaidmir1212/Chopstix-OS)
+
+**Overview**  
+Developed a custom x86 operating system kernel from the ground up, implementing core low-level functionalities and hardware abstraction layers to understand the "roots" of computing.
+
+**Key Highlights**
+*   Built a kernel capable of managing hardware resources and providing essential system services.
+*   Implemented custom Memory Segmentation and Global Descriptor Tables (GDT) to manage system memory safely.
+*   Developed Interrupt Descriptor Tables (IDT) and handled hardware interrupts for keyboard input and system timers.
+*   Programmed low-level VGA drivers for text-mode display and keyboard drivers for user interaction.
+*   Utilised QEMU and GDB for rigorous testing and debugging of low-level Assembly and C code.
+
+**Tech Stack**  
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assembly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Makefile-013243?style=for-the-badge&logo=gnu&logoColor=white"/>
+<img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white"/>
+<img src="https://img.shields.io/badge/GDB-313A3C?style=for-the-badge&logo=gnu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 
 ---
 
 ### 🗄️ Database-Driven Application / SQL System
+
 **Overview**  
 Designed and implemented a relational database system focused on structured data management, efficient querying, and data integrity.
 
@@ -141,11 +191,16 @@ Designed and implemented a relational database system focused on structured data
 - Demonstrated backend/database fundamentals for real-world systems
 
 **Tech Stack**  
-SQL, Relational Databases, Database Design, Query Optimisation, Normalisation
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Relational%20Databases-003B57?style=for-the-badge&logo=database&logoColor=white"/>
+<img src="https://img.shields.io/badge/Database%20Design-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Query%20Optimisation-E34F26?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Normalisation-239120?style=for-the-badge"/>
 
 ---
 
 ### 🌐 Personal Portfolio Website
+
 **Live Website:**  
 https://muhammadjuniadmir.vercel.app/
 
@@ -160,7 +215,14 @@ Designed and deployed a modern personal portfolio website to showcase my technic
 - Deployed live using **Vercel**
 
 **Tech Stack**  
-Next.js, React, Tailwind CSS, Framer Motion, Vercel, GitHub
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+---
 
 ## 📌 What Sets Me Apart
 
