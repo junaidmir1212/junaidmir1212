@@ -77,10 +77,34 @@ I am a **BSc (Hons) Computer Science Graduate (UK)** with strong interests in **
 
 ## 🚀 Featured Projects
 
+### 🫀 ECG Arrhythmia Classification
+
+**Repository:**  
+[ECG Arrhythmia Classification](https://github.com/junaidmir1212/ECG-Arrhythmia-Classification.git)
+
+**Live Project:**  
+[ECG Arrhythmia Classification](https://ecg-arrhythmia-diagnostics.streamlit.app/)
+
+**Overview**  
+Developed an edge-optimized continuous ECG arrhythmia classification application featuring synthetic signal ingestion and automated clinical audit reporting designed for real-time healthcare monitoring.
+
+**Key Highlights**
+- Implemented edge-optimized classification for real-time ECG signal processing
+- Integrated synthetic signal ingestion pipelines for robust model testing
+- Generated automated clinical audit reports for diagnostic review
+- Designed with a problem-first philosophy combining healthcare utility with software reliability
+
+**Tech Stack**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0A192F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Healthcare%20Tech-E34F26?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Edge%20Computing-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
 ### 🔍 Fake News Detection on Social Media Using NLP
 
 **Repository:**  
-[Fake-News-Detection-on-Social-Media-Using-Natural-Language-Processing-NLP-](https://github.com/junaidmir1212/Fake-News-Detection-on-Social-Media-Using-Natural-Language-Processing-NLP-)
+[Fake News Detection on Social Media Using Natural Language Processing NLP](https://github.com/junaidmir1212/Fake-News-Detection-on-Social-Media-Using-Natural-Language-Processing-NLP.git)
 
 **Overview**  
 Developed a machine learning-based system to classify social media/news content as **real or fake** using Natural Language Processing techniques.
@@ -104,7 +128,7 @@ Developed a machine learning-based system to classify social media/news content 
 ### 🎟️ Event Ticketing DApp
 
 **Repository:**  
-[-Event-Ticketing-D-App](https://github.com/junaidmir1212/-Event-Ticketing-D-App)
+[Event Ticketing D-App](https://github.com/junaidmir1212/Event-Ticketing-D-App.git)
 
 **Overview**  
 Built a blockchain-based decentralised ticketing system designed to reduce ticket fraud, duplication, and lack of transparency in traditional ticketing platforms.
@@ -128,10 +152,10 @@ Built a blockchain-based decentralised ticketing system designed to reduce ticke
 ### 🎓 Graduate Career Hub
 
 **Repository:**  
-[Graduate Career Hub](https://github.com/junaidmir1212/graduate-career-hub)
+[Graduate Career Hub](https://github.com/junaidmir1212/graduate-career-hub.git)
 
 **Live Project:**  
-https://graduate-career-hub.vercel.app/
+[Graduate Career Hub](https://graduate-career-hub.vercel.app/)
 
 **Overview**  
 Built a full-stack graduate career platform to help students organise applications, track career progress, and manage employability-related information in one place.
@@ -156,7 +180,10 @@ Built a full-stack graduate career platform to help students organise applicatio
 ### 💻 Chopstix OS
 
 **Repository:**  
-[Chopstix-OS](https://github.com/junaidmir1212/Chopstix-OS)
+[Chopstix OS](https://github.com/junaidmir1212/Chopstix-OS.git)
+
+**Live Project:**  
+[Chopstix OS](https://chopstix-os.vercel.app/)
 
 **Overview**  
 Developed a custom x86 operating system kernel from the ground up, implementing core low-level functionalities and hardware abstraction layers to understand the "roots" of computing.
@@ -201,8 +228,11 @@ Designed and implemented a relational database system focused on structured data
 
 ### 🌐 Personal Portfolio Website
 
-**Live Website:**  
-https://muhammadjuniadmir.vercel.app/
+**Repository:**  
+[Portfolio](https://github.com/junaidmir1212/junaid-portfolio.git)
+
+**Live Project:** 
+[Portfolio](https://muhammadjuniadmir.vercel.app/)
 
 **Overview**  
 Designed and deployed a modern personal portfolio website to showcase my technical projects, skills, CV, and career focus.
