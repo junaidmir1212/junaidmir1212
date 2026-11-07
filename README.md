@@ -232,7 +232,7 @@ Designed and implemented a relational database system focused on structured data
 [Portfolio](https://github.com/junaidmir1212/junaid-portfolio.git)
 
 **Live Project:** 
-[Portfolio](https://muhammadjuniadmir.vercel.app/)
+<br>[Portfolio](https://muhammadjuniadmir.vercel.app/)<br>
 
 **Overview**  
 Designed and deployed a modern personal portfolio website to showcase my technical projects, skills, CV, and career focus.
