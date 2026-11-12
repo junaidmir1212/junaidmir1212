@@ -16,7 +16,7 @@
 ## 🌐 Live Portfolio
 
 **Explore my full work here:**  
-🔗 https://muhammadjuniadmir.vercel.app/
+🔗 [Portfolio](https://muhammadjuniadmir.vercel.app/)
 
 ---
 
@@ -49,7 +49,7 @@ I am a **BSc (Hons) Computer Science Graduate (UK)** with strong interests in **
 - 🔗 Developed a **blockchain-based event ticketing DApp**
 - 💻 Built full-stack, database-driven, and portfolio-based software projects
 - 💼 Actively seeking **Graduate Software Engineer / AI / Backend roles in the UK**
-- 🌐 Portfolio: https://muhammadjuniadmir.vercel.app/
+- 🌐 Portfolio: [Portfolio](https://muhammadjuniadmir.vercel.app/)
 
 ---
 
